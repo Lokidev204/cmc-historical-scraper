@@ -75,7 +75,7 @@ output/        # Final wide-format exports
 
 ```bash
 # 1. Clone
-git clone https://github.com/<your-username>/cmc-historical-scraper.git
+git clone https://github.com/Lokidev204/cmc-historical-scraper.git
 cd cmc-historical-scraper
 
 # 2. Install dependencies
@@ -140,6 +140,6 @@ See [`sample_output/`](./sample_output/) for a 10-coin, 30-day demo slice.
 
 ## Author
 
-**Edward Nguyen** · [LinkedIn](https://linkedin.com/in/<your-linkedin>) · [GitHub](https://github.com/<your-username>)
+**Edward Nguyen** · [LinkedIn](www.linkedin.com/in/trí-nguyễn-phước-bảo-020733390) · [GitHub](https://github.com/Lokidev204)
 
 *Built as part of a Data Analytics portfolio project — feedback and PRs welcome.*
